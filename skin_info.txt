@@ -1,0 +1,20 @@
+{
+  "skinlist": [
+    {
+      "name": "暗黑星空",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/暗黑星空/暗黑星空.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/暗黑星空/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/暗黑星空/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/暗黑星空/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/暗黑星空/banner3.jpg"
+      ],
+      "tip": "",
+      "desc": "一闪一闪亮晶晶，漫天都是小✨✨",
+      "size": "1.01 M",
+      "enable": true,
+      "minversion": 1000762,
+      "md5": "d8dbe388689d6ff1d911b510369b5f1f"
+    }
+  ]
+}
