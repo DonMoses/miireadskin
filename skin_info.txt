@@ -15,6 +15,22 @@
       "enable": true,
       "minversion": 1000762,
       "md5": "d8dbe388689d6ff1d911b510369b5f1f"
+    },
+    {
+      "name": "闺蜜",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/闺蜜/闺蜜.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/闺蜜/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/闺蜜/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/闺蜜/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/闺蜜/banner3.jpg"
+      ],
+      "tip": "",
+      "desc": "最好的你也在想我吗？",
+      "size": "1.06 M",
+      "enable": true,
+      "minversion": 1000762,
+      "md5": "1e22c585c66cf9c24e3301eccf82465f"
     }
   ]
 }
