@@ -13,24 +13,24 @@
       "desc": "一闪一闪亮晶晶，漫天都是小✨✨",
       "size": "1.01 M",
       "enable": true,
-      "minversion": 1000762,
+      "minversion": 1000672,
       "md5": "d8dbe388689d6ff1d911b510369b5f1f"
     },
     {
-      "name": "闺蜜",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/闺蜜/闺蜜.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/闺蜜/cover.jpg",
+      "name": "活力海洋",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/活力海洋/活力海洋.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/活力海洋/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/闺蜜/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/闺蜜/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/闺蜜/banner3.jpg"
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/活力海洋/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/活力海洋/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/活力海洋/banner3.jpg"
       ],
       "tip": "",
-      "desc": "最好的你也在想我吗？",
-      "size": "1.06 M",
+      "desc": "不要问我还有多深",
+      "size": "3.27 M",
       "enable": true,
-      "minversion": 1000762,
-      "md5": "1e22c585c66cf9c24e3301eccf82465f"
+      "minversion": 1000672,
+      "md5": "bc8bc3f97a68aedd04f7175f58617fc1"
     }
   ]
 }
