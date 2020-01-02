@@ -31,6 +31,22 @@
       "enable": true,
       "minversion": 1000672,
       "md5": "bc8bc3f97a68aedd04f7175f58617fc1"
+    },
+    {
+      "name": "高山流水",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/高山流水.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/banner3.jpg"
+      ],
+      "tip": "",
+      "desc": "",
+      "size": "3.27 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "bc8bc3f97a68aedd04f7175f58617fc1"
     }
   ]
 }
