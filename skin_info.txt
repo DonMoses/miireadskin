@@ -11,10 +11,10 @@
       ],
       "tip": "",
       "desc": "一闪一闪亮晶晶，漫天都是小✨✨",
-      "size": "1.37 M",
+      "size": "1.32 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "1d86c78989bd248e38047f62fe83de7d"
+      "md5": "5a06d88efa46b95400989612616b9191"
     },
     {
       "name": "活力海洋",
@@ -30,7 +30,7 @@
       "size": "1.27 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "18fb3a959be416fa146ada73fe03b836"
+      "md5": "ddc60a20ec74f270fa07e712a5b38bdd"
     },
     {
       "name": "高山流水",
@@ -43,10 +43,10 @@
       ],
       "tip": "",
       "desc": "高山流水",
-      "size": "1.79 M",
+      "size": "1.75 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "9d7f7b8f7cff4f7eaff600117261bcff"
+      "md5": "0fa1dc3ba71c293391601a44d53a8265"
     }
   ]
 }
