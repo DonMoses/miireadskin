@@ -33,6 +33,22 @@
       "md5": "ddc60a20ec74f270fa07e712a5b38bdd"
     },
     {
+      "name": "缥缈仙韵",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/缥缈仙韵/缥缈仙韵.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/缥缈仙韵/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/缥缈仙韵/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/缥缈仙韵/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/缥缈仙韵/banner3.jpg"
+      ],
+      "tip": "",
+      "desc": "缥缈仙韵",
+      "size": "2.9 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "bbb320430aedc6c1758e669c741f4c0e"
+    },
+    {
       "name": "高山流水",
       "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/高山流水.miiskin",
       "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/cover.jpg",
