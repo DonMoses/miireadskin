@@ -1,0 +1,132 @@
+{
+  "skinlist": [
+    {
+      "name": "星球探索",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/星球探索/星球探索.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/星球探索/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/星球探索/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/星球探索/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/星球探索/banner3.jpg"
+      ],
+      "tip": "designed by 莫飞",
+      "desc": "",
+      "size": "2.54 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "97d5126070c0aefd5a298ea63c4e261f"
+    },
+    {
+      "name": "暗黑星空",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/暗黑星空/暗黑星空.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/暗黑星空/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/暗黑星空/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/暗黑星空/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/暗黑星空/banner3.jpg"
+      ],
+      "tip": "designed by 书迷",
+      "desc": "一闪一闪亮晶晶，漫天都是小✨✨",
+      "size": "1.32 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "5a06d88efa46b95400989612616b9191"
+    },
+    {
+      "name": "活力海洋",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/活力海洋/活力海洋.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/活力海洋/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/活力海洋/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/活力海洋/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/活力海洋/banner3.jpg"
+      ],
+      "tip": "designed by 书迷",
+      "desc": "不要问我还有多深",
+      "size": "1.27 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "ddc60a20ec74f270fa07e712a5b38bdd"
+    },
+    {
+      "name": "缥缈仙韵",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/缥缈仙韵/缥缈仙韵.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/缥缈仙韵/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/缥缈仙韵/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/缥缈仙韵/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/缥缈仙韵/banner3.jpg"
+      ],
+      "tip": "disigned by 乱战葬歌",
+      "desc": "",
+      "size": "2.35 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "1977e51a3d1c258aedbe55ca86f39312"
+    },
+    {
+      "name": "高山流水",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/高山流水.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/banner3.jpg"
+      ],
+      "tip": "disigned by 乱战葬歌",
+      "desc": "",
+      "size": "1.77 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "16a8bcec741dbd464c9bbbf537187730"
+    },
+    {
+      "name": "落樱粉彩",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/落樱粉彩/落樱粉彩.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/落樱粉彩/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/落樱粉彩/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/落樱粉彩/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/落樱粉彩/banner3.jpg"
+      ],
+      "tip": "disigned by 乱战葬歌",
+      "desc": "",
+      "size": "1.9 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "81451ef903160c319acd004b1e15148f"
+    },
+    {
+      "name": "正义绿头",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/正义绿头/正义绿头.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/正义绿头/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/正义绿头/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/正义绿头/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/正义绿头/banner3.jpg"
+      ],
+      "tip": "disigned by 莫飞",
+      "desc": "",
+      "size": "1.45 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "b88e410afa2248af7214a8f27f50a995"
+    },
+    {
+      "name": "中国风情",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/中国风情/中国风情.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/中国风情/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/中国风情/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/中国风情/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/中国风情/banner3.jpg"
+      ],
+      "tip": "disigned by 莫飞",
+      "desc": "",
+      "size": "1.84 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "b3497e78cdef160617c6503a1bf444ff"
+    }
+  ]
+}
