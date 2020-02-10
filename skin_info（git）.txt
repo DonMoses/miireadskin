@@ -57,7 +57,7 @@
         "https://raw.githubusercontent.com/DonMoses/miireadskin/master/缥缈仙韵/banner2.jpg",
         "https://raw.githubusercontent.com/DonMoses/miireadskin/master/缥缈仙韵/banner3.jpg"
       ],
-      "tip": "disigned by 乱战葬歌",
+      "tip": "designed by 乱战葬歌",
       "desc": "",
       "size": "2.35 M",
       "enable": true,
@@ -73,7 +73,7 @@
         "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/banner2.jpg",
         "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/banner3.jpg"
       ],
-      "tip": "disigned by 乱战葬歌",
+      "tip": "designed by 乱战葬歌",
       "desc": "",
       "size": "1.77 M",
       "enable": true,
@@ -89,7 +89,7 @@
         "https://raw.githubusercontent.com/DonMoses/miireadskin/master/落樱粉彩/banner2.jpg",
         "https://raw.githubusercontent.com/DonMoses/miireadskin/master/落樱粉彩/banner3.jpg"
       ],
-      "tip": "disigned by 乱战葬歌",
+      "tip": "designed by 乱战葬歌",
       "desc": "",
       "size": "1.9 M",
       "enable": true,
@@ -105,7 +105,7 @@
         "https://raw.githubusercontent.com/DonMoses/miireadskin/master/正义绿头/banner2.jpg",
         "https://raw.githubusercontent.com/DonMoses/miireadskin/master/正义绿头/banner3.jpg"
       ],
-      "tip": "disigned by 莫飞",
+      "tip": "designed by 莫飞",
       "desc": "",
       "size": "1.45 M",
       "enable": true,
@@ -121,7 +121,7 @@
         "https://raw.githubusercontent.com/DonMoses/miireadskin/master/中国风情/banner2.jpg",
         "https://raw.githubusercontent.com/DonMoses/miireadskin/master/中国风情/banner3.jpg"
       ],
-      "tip": "disigned by 莫飞",
+      "tip": "designed by 莫飞",
       "desc": "",
       "size": "1.84 M",
       "enable": true,

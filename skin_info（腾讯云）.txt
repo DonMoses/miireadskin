@@ -57,7 +57,7 @@
         "https://miiread-1258151346.cos.ap-chengdu.myqcloud.com/version/android/miireadskinres/缥缈仙韵/banner2.jpg",
         "https://miiread-1258151346.cos.ap-chengdu.myqcloud.com/version/android/miireadskinres/缥缈仙韵/banner3.jpg"
       ],
-      "tip": "disigned by 乱战葬歌",
+      "tip": "designed by 乱战葬歌",
       "desc": "",
       "size": "2.39 M",
       "enable": true,
@@ -73,7 +73,7 @@
         "https://miiread-1258151346.cos.ap-chengdu.myqcloud.com/version/android/miireadskinres/高山流水/banner2.jpg",
         "https://miiread-1258151346.cos.ap-chengdu.myqcloud.com/version/android/miireadskinres/高山流水/banner3.jpg"
       ],
-      "tip": "disigned by 乱战葬歌",
+      "tip": "designed by 乱战葬歌",
       "desc": "",
       "size": "2.18 M",
       "enable": true,
@@ -89,7 +89,7 @@
         "https://miiread-1258151346.cos.ap-chengdu.myqcloud.com/version/android/miireadskinres/正义绿头/banner2.jpg",
         "https://miiread-1258151346.cos.ap-chengdu.myqcloud.com/version/android/miireadskinres/正义绿头/banner3.jpg"
       ],
-      "tip": "disigned by 莫飞",
+      "tip": "designed by 莫飞",
       "desc": "",
       "size": "1.45 M",
       "enable": true,
@@ -105,7 +105,7 @@
         "https://miiread-1258151346.cos.ap-chengdu.myqcloud.com/version/android/miireadskinres/落樱粉彩/banner2.jpg",
         "https://miiread-1258151346.cos.ap-chengdu.myqcloud.com/version/android/miireadskinres/落樱粉彩/banner3.jpg"
       ],
-      "tip": "disigned by 乱战葬歌",
+      "tip": "designed by 乱战葬歌",
       "desc": "",
       "size": "2.6 M",
       "enable": true,
@@ -121,7 +121,7 @@
         "https://miiread-1258151346.cos.ap-chengdu.myqcloud.com/version/android/miireadskinres/中国风情/banner2.jpg",
         "https://miiread-1258151346.cos.ap-chengdu.myqcloud.com/version/android/miireadskinres/中国风情/banner3.jpg"
       ],
-      "tip": "disigned by 莫飞",
+      "tip": "designed by 莫飞",
       "desc": "",
       "size": "1.95 M",
       "enable": true,
