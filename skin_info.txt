@@ -27,10 +27,10 @@
       ],
       "tip": "designed by Winchester",
       "desc": "",
-      "size": "2.24 M",
+      "size": "2.5 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "370b50f4885f04552435179928326a63"
+      "md5": "0ed800442cf02b28eb4542d89fd71169"
     },
     {
       "name": "星球探索",
@@ -107,10 +107,10 @@
       ],
       "tip": "designed by 莫飞",
       "desc": "",
-      "size": "2.24 M",
+      "size": "896.53 kb",
       "enable": true,
       "minversion": 1000672,
-      "md5": "370b50f4885f04552435179928326a63"
+      "md5": "e32a8aa69400e31ef57c371a1ba92f9a"
     },
     {
       "name": "缥缈仙韵",
@@ -171,10 +171,10 @@
       ],
       "tip": "designed by 乱战葬歌",
       "desc": "",
-      "size": "2.24 M",
+      "size": "2.35 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "370b50f4885f04552435179928326a63"
+      "md5": "43db219e148140005cbf01b203950daa"
     },
     {
       "name": "魔道祖师·魏无羡",
@@ -187,10 +187,10 @@
       ],
       "tip": "designed by 乱战葬歌",
       "desc": "",
-      "size": "2.24 M",
+      "size": "2.36 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "370b50f4885f04552435179928326a63"
+      "md5": "2e4dfa1585545fd70da67bf513953b09"
     }
   ]
 }
