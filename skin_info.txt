@@ -91,10 +91,10 @@
       ],
       "tip": "designed by 书迷",
       "desc": "不要问我还有多深",
-      "size": "2.17 M",
+      "size": "1.09 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "cce24e437cecb7a75eb2c5e83a979c83"
+      "md5": "dbb4d2d40629ca6a38890c04594895a4"
     },
     {
       "name": "皮卡丘",
