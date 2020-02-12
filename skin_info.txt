@@ -174,7 +174,7 @@
       "size": "2.35 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "43db219e148140005cbf01b203950daa"
+      "md5": "2124c1e302b4d147bc2de130a68489ce"
     },
     {
       "name": "魔道祖师·魏无羡",
@@ -187,10 +187,10 @@
       ],
       "tip": "designed by 乱战葬歌",
       "desc": "",
-      "size": "2.36 M",
+      "size": "0",
       "enable": true,
       "minversion": 1000672,
-      "md5": "2e4dfa1585545fd70da67bf513953b09"
+      "md5": "d41d8cd98f00b204e9800998ecf8427e"
     }
   ]
 }
