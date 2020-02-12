@@ -187,7 +187,7 @@
       ],
       "tip": "designed by 乱战葬歌",
       "desc": "",
-      "size": "2.36",
+      "size": "2.36 M",
       "enable": true,
       "minversion": 1000672,
       "md5": "331946dd1b42dc4e5320747241430cbb"
