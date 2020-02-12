@@ -91,10 +91,10 @@
       ],
       "tip": "designed by 书迷",
       "desc": "不要问我还有多深",
-      "size": "1.27 M",
+      "size": "2.17 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "ddc60a20ec74f270fa07e712a5b38bdd"
+      "md5": "cce24e437cecb7a75eb2c5e83a979c83"
     },
     {
       "name": "皮卡丘",
@@ -123,10 +123,10 @@
       ],
       "tip": "designed by 乱战葬歌",
       "desc": "",
-      "size": "2.39 M",
+      "size": "1.93 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "0c9ab2241b2605aad2a7b1cfe52f6012"
+      "md5": "29f91949c8ccca2db3dd192fb1c7a55a"
     },
     {
       "name": "落樱粉彩",
@@ -155,10 +155,10 @@
       ],
       "tip": "designed by 乱战葬歌",
       "desc": "",
-      "size": "2.24 M",
+      "size": "1.83 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "370b50f4885f04552435179928326a63"
+      "md5": "f96a10467622ecd34c0f9c690687205f"
     },
     {
       "name": "魔道祖师·蓝忘机",
