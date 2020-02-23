@@ -1,6 +1,22 @@
 {
   "skinlist": [
     {
+      "name": "B站风格",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/B站风格/B站风格.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/B站风格/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/B站风格/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/B站风格/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/B站风格/banner3.jpg"
+      ],
+      "tip": "designed by 莫飞",
+      "desc": "",
+      "size": "1.36 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "afda29ef9793be36371319fce71f3b17"
+    },
+    {
       "name": "中国风情",
       "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/中国风情/中国风情.miiskin",
       "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/中国风情/cover.jpg",
@@ -75,10 +91,10 @@
       ],
       "tip": "designed by 莫飞",
       "desc": "",
-      "size": "1.45 M",
+      "size": "2.23 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "b88e410afa2248af7214a8f27f50a995"
+      "md5": "048064c582539b35c1df60ce7e580489"
     },
     {
       "name": "活力海洋",
@@ -107,10 +123,10 @@
       ],
       "tip": "designed by 莫飞",
       "desc": "",
-      "size": "896.53 kb",
+      "size": "1,021.55 kb",
       "enable": true,
       "minversion": 1000672,
-      "md5": "e32a8aa69400e31ef57c371a1ba92f9a"
+      "md5": "d7b1d7fcd9c7c78fef6723a3fa1c5a4e"
     },
     {
       "name": "缥缈仙韵",
@@ -143,6 +159,38 @@
       "enable": true,
       "minversion": 1000672,
       "md5": "e1ef1aea8004ffa87ceb6ff7e6ed8af4"
+    },
+    {
+      "name": "逼死强迫症",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/逼死强迫症/逼死强迫症.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/逼死强迫症/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/逼死强迫症/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/逼死强迫症/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/逼死强迫症/banner3.jpg"
+      ],
+      "tip": "designed by 乱战葬歌",
+      "desc": "",
+      "size": "1.45 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "34726c7bd10ed74ea56cad2ec9ef797d"
+    },
+    {
+      "name": "郁香",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/郁香/郁香.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/郁香/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/郁香/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/郁香/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/郁香/banner3.jpg"
+      ],
+      "tip": "designed by 廿拾叁",
+      "desc": "",
+      "size": "1.89 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "c7cf5c542444deb6190abf36f3f59b4d"
     },
     {
       "name": "高山流水",
