@@ -33,22 +33,6 @@
       "md5": "dec019307a7d50b3a249663cfbdce5a4"
     },
     {
-      "name": "四季风·雪",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/四季风·雪/四季风·雪.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/四季风·雪/cover.jpg",
-      "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/四季风·雪/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/四季风·雪/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/四季风·雪/banner3.jpg"
-      ],
-      "tip": "designed by Winchester",
-      "desc": "",
-      "size": "2.5 M",
-      "enable": true,
-      "minversion": 1000672,
-      "md5": "0ed800442cf02b28eb4542d89fd71169"
-    },
-    {
       "name": "星球探索",
       "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/星球探索/星球探索.miiskin",
       "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/星球探索/cover.jpg",
@@ -65,36 +49,52 @@
       "md5": "05cbe2382bcdd9690bf25d2d09b86cb7"
     },
     {
-      "name": "暗黑星空",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/暗黑星空/暗黑星空.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/暗黑星空/cover.jpg",
+      "name": "高山流水",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/高山流水.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/暗黑星空/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/暗黑星空/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/暗黑星空/banner3.jpg"
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/banner3.jpg"
       ],
-      "tip": "designed by 书迷",
-      "desc": "一闪一闪亮晶晶，漫天都是小✨✨",
-      "size": "1.32 M",
+      "tip": "designed by 乱战葬歌",
+      "desc": "",
+      "size": "1.83 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "5a06d88efa46b95400989612616b9191"
+      "md5": "f96a10467622ecd34c0f9c690687205f"
     },
     {
-      "name": "正义绿头",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/正义绿头/正义绿头.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/正义绿头/cover.jpg",
+      "name": "魔道祖师·蓝忘机",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·蓝忘机/魔道祖师·蓝忘机.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·蓝忘机/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/正义绿头/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/正义绿头/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/正义绿头/banner3.jpg"
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·蓝忘机/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·蓝忘机/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·蓝忘机/banner3.jpg"
       ],
-      "tip": "designed by 莫飞",
+      "tip": "designed by 乱战葬歌",
       "desc": "",
-      "size": "2.23 M",
+      "size": "2.35 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "048064c582539b35c1df60ce7e580489"
+      "md5": "2124c1e302b4d147bc2de130a68489ce"
+    },
+    {
+      "name": "魔道祖师·魏无羡",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·魏无羡/魔道祖师·魏无羡.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·魏无羡/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·魏无羡/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·魏无羡/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·魏无羡/banner3.jpg"
+      ],
+      "tip": "designed by 乱战葬歌",
+      "desc": "",
+      "size": "2.36 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "331946dd1b42dc4e5320747241430cbb"
     },
     {
       "name": "活力海洋",
@@ -161,6 +161,54 @@
       "md5": "e1ef1aea8004ffa87ceb6ff7e6ed8af4"
     },
     {
+      "name": "四季风·雪",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/四季风·雪/四季风·雪.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/四季风·雪/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/四季风·雪/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/四季风·雪/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/四季风·雪/banner3.jpg"
+      ],
+      "tip": "designed by Winchester",
+      "desc": "",
+      "size": "2.5 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "0ed800442cf02b28eb4542d89fd71169"
+    },
+    {
+      "name": "暗黑星空",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/暗黑星空/暗黑星空.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/暗黑星空/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/暗黑星空/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/暗黑星空/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/暗黑星空/banner3.jpg"
+      ],
+      "tip": "designed by 书迷",
+      "desc": "一闪一闪亮晶晶，漫天都是小✨✨",
+      "size": "1.32 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "5a06d88efa46b95400989612616b9191"
+    },
+    {
+      "name": "正义绿头",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/正义绿头/正义绿头.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/正义绿头/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/正义绿头/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/正义绿头/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/正义绿头/banner3.jpg"
+      ],
+      "tip": "designed by 莫飞",
+      "desc": "",
+      "size": "2.23 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "048064c582539b35c1df60ce7e580489"
+    },
+    {
       "name": "逼死强迫症",
       "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/逼死强迫症/逼死强迫症.miiskin",
       "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/逼死强迫症/cover.jpg",
@@ -191,54 +239,6 @@
       "enable": true,
       "minversion": 1000672,
       "md5": "c7cf5c542444deb6190abf36f3f59b4d"
-    },
-    {
-      "name": "高山流水",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/高山流水.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/cover.jpg",
-      "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/banner3.jpg"
-      ],
-      "tip": "designed by 乱战葬歌",
-      "desc": "",
-      "size": "1.83 M",
-      "enable": true,
-      "minversion": 1000672,
-      "md5": "f96a10467622ecd34c0f9c690687205f"
-    },
-    {
-      "name": "魔道祖师·蓝忘机",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·蓝忘机/魔道祖师·蓝忘机.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·蓝忘机/cover.jpg",
-      "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·蓝忘机/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·蓝忘机/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·蓝忘机/banner3.jpg"
-      ],
-      "tip": "designed by 乱战葬歌",
-      "desc": "",
-      "size": "2.35 M",
-      "enable": true,
-      "minversion": 1000672,
-      "md5": "2124c1e302b4d147bc2de130a68489ce"
-    },
-    {
-      "name": "魔道祖师·魏无羡",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·魏无羡/魔道祖师·魏无羡.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·魏无羡/cover.jpg",
-      "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·魏无羡/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·魏无羡/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·魏无羡/banner3.jpg"
-      ],
-      "tip": "designed by 乱战葬歌",
-      "desc": "",
-      "size": "2.36 M",
-      "enable": true,
-      "minversion": 1000672,
-      "md5": "331946dd1b42dc4e5320747241430cbb"
     }
   ]
 }
