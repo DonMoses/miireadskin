@@ -67,7 +67,7 @@
     {
       "name": "奇迹暖暖·星河幻想",
       "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·星河幻想/奇迹暖暖·星河幻想.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·破晓之誓/cover.jpg",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·星河幻想/cover.jpg",
       "banners": [
         "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·星河幻想/banner1.jpg",
         "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·星河幻想/banner2.jpg",
