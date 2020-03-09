@@ -14,7 +14,23 @@
       "size": "1.36 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "afda29ef9793be36371319fce71f3b17"
+      "md5": "5ad045b15c58ad29286855ccc18dd119"
+    },
+    {
+      "name": "B站风格2",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/B站风格2/B站风格2.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/B站风格2/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/B站风格2/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/B站风格2/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/B站风格2/banner3.jpg"
+      ],
+      "tip": "designed by 莫飞",
+      "desc": "",
+      "size": "1.39 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "1e6c84e384476e8904bb3746cdc77225"
     },
     {
       "name": "中国风情",
@@ -62,7 +78,7 @@
       "size": "1.77 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "4748c8dd2681e63790eaa575d0c53b2c"
+      "md5": "76f585b6203cad13d36088088ea7b5de"
     },
     {
       "name": "奇迹暖暖·星河幻想",
@@ -78,7 +94,7 @@
       "size": "1.56 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "34f5640408515cb8aea83bdda391b5c9"
+      "md5": "b752e42ef87119192a76f490bcdd4aae"
     },
     {
       "name": "奇迹暖暖·破晓之誓",
@@ -94,7 +110,7 @@
       "size": "1.51 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "402a088f8c22b90e6df7fb8081c6e386"
+      "md5": "63bc9a307f97cff04db51d70d8770a09"
     },
     {
       "name": "星球探索",
@@ -107,10 +123,10 @@
       ],
       "tip": "designed by 莫飞",
       "desc": "",
-      "size": "2.6 M",
+      "size": "1.22 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "05cbe2382bcdd9690bf25d2d09b86cb7"
+      "md5": "45c6e396555fbd5faeb83a9b9ef5053c"
     },
     {
       "name": "暗黑星空",
@@ -155,10 +171,10 @@
       ],
       "tip": "designed by 廿拾叁",
       "desc": "",
-      "size": "1.95 M",
+      "size": "0",
       "enable": true,
       "minversion": 1000672,
-      "md5": "94f91cb00b26c67999fc9a7eaa7afac2"
+      "md5": "d41d8cd98f00b204e9800998ecf8427e"
     },
     {
       "name": "活力海洋",
@@ -187,10 +203,26 @@
       ],
       "tip": "designed by 莫飞",
       "desc": "",
-      "size": "1.24 M",
+      "size": "1.26 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "a3d52d9a16dc9751c215f38081d12327"
+      "md5": "bb5d61041260ddfcedb97f90b108880a"
+    },
+    {
+      "name": "璀璨绿光",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/璀璨绿光/璀璨绿光.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/璀璨绿光/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/璀璨绿光/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/璀璨绿光/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/璀璨绿光/banner3.jpg"
+      ],
+      "tip": "designed by 💘只爲、伊人醉づ✨™",
+      "desc": "",
+      "size": "2.43 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "eb0ac977307f3213f1a72ea1a20aa5a5"
     },
     {
       "name": "皮卡丘",
@@ -222,7 +254,7 @@
       "size": "1.92 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "1524d4f822f136ccd517a3daf9662160"
+      "md5": "851b23be01758f3d0d0500d78c8d5185"
     },
     {
       "name": "罪恶王冠",
@@ -270,7 +302,7 @@
       "size": "1.45 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "34726c7bd10ed74ea56cad2ec9ef797d"
+      "md5": "2f3c24e43f68ecbb2babad869a470091"
     },
     {
       "name": "郁香",
@@ -283,10 +315,26 @@
       ],
       "tip": "designed by 廿拾叁",
       "desc": "",
-      "size": "1.89 M",
+      "size": "2.01 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "c7cf5c542444deb6190abf36f3f59b4d"
+      "md5": "33ad6fc4e15f6f7ba671395648a30cea"
+    },
+    {
+      "name": "钉钉本钉QAQ",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/钉钉本钉QAQ/钉钉本钉QAQ.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/钉钉本钉QAQ/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/钉钉本钉QAQ/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/钉钉本钉QAQ/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/钉钉本钉QAQ/banner3.jpg"
+      ],
+      "tip": "designed by 乱战葬歌",
+      "desc": "",
+      "size": "1.19 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "26a76ce066bc7007e9e64f18c6bb8d91"
     },
     {
       "name": "高山流水",
@@ -302,7 +350,7 @@
       "size": "1.82 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "10f4da9f1c8190ac08fb31740b65a84d"
+      "md5": "c2d5acc5e6e85d3106ca7dd5f3dc2074"
     },
     {
       "name": "魔道祖师·蓝忘机",
@@ -318,7 +366,7 @@
       "size": "2.35 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "2124c1e302b4d147bc2de130a68489ce"
+      "md5": "1e0b4d8605fd8c838dd230893d32f030"
     },
     {
       "name": "魔道祖师·魏无羡",
@@ -334,7 +382,7 @@
       "size": "2.36 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "331946dd1b42dc4e5320747241430cbb"
+      "md5": "b20709afd0b64faa70d352630c6c4fc4"
     }
   ]
 }
