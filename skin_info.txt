@@ -27,10 +27,10 @@
       ],
       "tip": "designed by 莫飞",
       "desc": "",
-      "size": "1.39 M",
+      "size": "2.07 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "1e6c84e384476e8904bb3746cdc77225"
+      "md5": "9a5992dd8d8186623828210c0e502755"
     },
     {
       "name": "中国风情",
