@@ -443,10 +443,10 @@
       ],
       "tip": "designed by 乱战葬歌",
       "desc": "",
-      "size": "1.19 M",
+      "size": "1.34 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "26a76ce066bc7007e9e64f18c6bb8d91"
+      "md5": "85264bc9c9eeed6a278fba1cd3e9589f"
     },
     {
       "name": "高山流水",
