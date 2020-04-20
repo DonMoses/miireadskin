@@ -81,6 +81,70 @@
       "md5": "76f585b6203cad13d36088088ea7b5de"
     },
     {
+      "name": "奇迹暖暖·不动如山",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·不动如山/奇迹暖暖·不动如山.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·不动如山/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·不动如山/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·不动如山/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·不动如山/banner3.jpg"
+      ],
+      "tip": "designed by 乱战葬歌",
+      "desc": "",
+      "size": "1.83 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "01b9e07e6c3ab50fded6d72397746e74"
+    },
+    {
+      "name": "奇迹暖暖·侵略如火",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·侵略如火/奇迹暖暖·侵略如火.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·侵略如火/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·侵略如火/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·侵略如火/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·侵略如火/banner3.jpg"
+      ],
+      "tip": "designed by 乱战葬歌",
+      "desc": "",
+      "size": "2.15 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "0900b50a29563b8c507027468c40a033"
+    },
+    {
+      "name": "奇迹暖暖·其徐如林",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·其徐如林/奇迹暖暖·其徐如林.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·其徐如林/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·其徐如林/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·其徐如林/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·其徐如林/banner3.jpg"
+      ],
+      "tip": "designed by 乱战葬歌",
+      "desc": "",
+      "size": "1.98 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "6be3f3b52164f78972d87db91ab925ad"
+    },
+    {
+      "name": "奇迹暖暖·其疾如风",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·其疾如风/奇迹暖暖·其疾如风.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·其疾如风/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·其疾如风/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·其疾如风/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·其疾如风/banner3.jpg"
+      ],
+      "tip": "designed by 乱战葬歌",
+      "desc": "",
+      "size": "2.02 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "25a113682761a8650c226a8c1679c47b"
+    },
+    {
       "name": "奇迹暖暖·星河幻想",
       "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·星河幻想/奇迹暖暖·星河幻想.miiskin",
       "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·星河幻想/cover.jpg",
@@ -97,6 +161,22 @@
       "md5": "b752e42ef87119192a76f490bcdd4aae"
     },
     {
+      "name": "奇迹暖暖·狄安娜之梦",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·狄安娜之梦/奇迹暖暖·狄安娜之梦.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·狄安娜之梦/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·狄安娜之梦/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·狄安娜之梦/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·狄安娜之梦/banner3.jpg"
+      ],
+      "tip": "designed by 乱战葬歌",
+      "desc": "",
+      "size": "1.53 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "96bf00c0dafee6fa00f02f7e9e6ad88f"
+    },
+    {
       "name": "奇迹暖暖·破晓之誓",
       "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·破晓之誓/奇迹暖暖·破晓之誓.miiskin",
       "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·破晓之誓/cover.jpg",
@@ -111,6 +191,22 @@
       "enable": true,
       "minversion": 1000672,
       "md5": "63bc9a307f97cff04db51d70d8770a09"
+    },
+    {
+      "name": "斜塔幻想",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/斜塔幻想/斜塔幻想.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/斜塔幻想/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/斜塔幻想/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/斜塔幻想/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/斜塔幻想/banner3.jpg"
+      ],
+      "tip": "designed by 廿拾叁",
+      "desc": "",
+      "size": "1.69 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "39ddc34196203c0b2e0edca992ce18ea"
     },
     {
       "name": "星球探索",
@@ -171,10 +267,10 @@
       ],
       "tip": "designed by 廿拾叁",
       "desc": "",
-      "size": "0",
+      "size": "1.95 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "d41d8cd98f00b204e9800998ecf8427e"
+      "md5": "94f91cb00b26c67999fc9a7eaa7afac2"
     },
     {
       "name": "活力海洋",
@@ -287,6 +383,22 @@
       "enable": true,
       "minversion": 1000672,
       "md5": "e1ef1aea8004ffa87ceb6ff7e6ed8af4"
+    },
+    {
+      "name": "進撃の巨人",
+      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/進撃の巨人/進撃の巨人.miiskin",
+      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/進撃の巨人/cover.jpg",
+      "banners": [
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/進撃の巨人/banner1.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/進撃の巨人/banner2.jpg",
+        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/進撃の巨人/banner3.jpg"
+      ],
+      "tip": "designed by 莫飞",
+      "desc": "",
+      "size": "2.07 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "c7ebf1f9bdc0ac84cbd90adf8da91444"
     },
     {
       "name": "逼死强迫症",
