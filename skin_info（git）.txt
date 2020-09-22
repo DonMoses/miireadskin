@@ -1,29 +1,29 @@
 {
   "skinlist": [
     {
-      "name": "B站风格",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/B站风格/B站风格.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/B站风格/cover.jpg",
+      "name": "暗金祥云",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/暗金祥云/暗金祥云.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/暗金祥云/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/B站风格/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/B站风格/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/B站风格/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/暗金祥云/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/暗金祥云/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/暗金祥云/banner3.jpg"
       ],
       "tip": "designed by 莫飞",
       "desc": "",
-      "size": "1.36 M",
+      "size": "2.02 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "5ad045b15c58ad29286855ccc18dd119"
+      "md5": "6f249495a2c70095fe55405abf031094"
     },
     {
-      "name": "B站风格2",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/B站风格2/B站风格2.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/B站风格2/cover.jpg",
+      "name": "B站风格",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/B站风格/B站风格.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/B站风格/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/B站风格2/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/B站风格2/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/B站风格2/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/B站风格/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/B站风格/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/B站风格/banner3.jpg"
       ],
       "tip": "designed by 莫飞",
       "desc": "",
@@ -34,12 +34,12 @@
     },
     {
       "name": "中国风情",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/中国风情/中国风情.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/中国风情/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/中国风情/中国风情.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/中国风情/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/中国风情/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/中国风情/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/中国风情/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/中国风情/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/中国风情/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/中国风情/banner3.jpg"
       ],
       "tip": "designed by 莫飞",
       "desc": "",
@@ -50,12 +50,12 @@
     },
     {
       "name": "四季风·雪",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/四季风·雪/四季风·雪.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/四季风·雪/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/四季风·雪/四季风·雪.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/四季风·雪/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/四季风·雪/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/四季风·雪/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/四季风·雪/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/四季风·雪/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/四季风·雪/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/四季风·雪/banner3.jpg"
       ],
       "tip": "designed by Winchester",
       "desc": "",
@@ -66,12 +66,12 @@
     },
     {
       "name": "国风·游戏",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/国风·游戏/国风·游戏.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/国风·游戏/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/国风·游戏/国风·游戏.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/国风·游戏/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/国风·游戏/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/国风·游戏/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/国风·游戏/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/国风·游戏/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/国风·游戏/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/国风·游戏/banner3.jpg"
       ],
       "tip": "designed by 乱战葬歌",
       "desc": "",
@@ -82,12 +82,12 @@
     },
     {
       "name": "奇迹暖暖·不动如山",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·不动如山/奇迹暖暖·不动如山.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·不动如山/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·不动如山/奇迹暖暖·不动如山.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·不动如山/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·不动如山/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·不动如山/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·不动如山/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·不动如山/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·不动如山/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·不动如山/banner3.jpg"
       ],
       "tip": "designed by 乱战葬歌",
       "desc": "",
@@ -98,12 +98,12 @@
     },
     {
       "name": "奇迹暖暖·侵略如火",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·侵略如火/奇迹暖暖·侵略如火.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·侵略如火/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·侵略如火/奇迹暖暖·侵略如火.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·侵略如火/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·侵略如火/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·侵略如火/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·侵略如火/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·侵略如火/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·侵略如火/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·侵略如火/banner3.jpg"
       ],
       "tip": "designed by 乱战葬歌",
       "desc": "",
@@ -114,12 +114,12 @@
     },
     {
       "name": "奇迹暖暖·其徐如林",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·其徐如林/奇迹暖暖·其徐如林.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·其徐如林/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·其徐如林/奇迹暖暖·其徐如林.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·其徐如林/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·其徐如林/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·其徐如林/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·其徐如林/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·其徐如林/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·其徐如林/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·其徐如林/banner3.jpg"
       ],
       "tip": "designed by 乱战葬歌",
       "desc": "",
@@ -130,12 +130,12 @@
     },
     {
       "name": "奇迹暖暖·其疾如风",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·其疾如风/奇迹暖暖·其疾如风.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·其疾如风/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·其疾如风/奇迹暖暖·其疾如风.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·其疾如风/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·其疾如风/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·其疾如风/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·其疾如风/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·其疾如风/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·其疾如风/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·其疾如风/banner3.jpg"
       ],
       "tip": "designed by 乱战葬歌",
       "desc": "",
@@ -146,12 +146,12 @@
     },
     {
       "name": "奇迹暖暖·星河幻想",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·星河幻想/奇迹暖暖·星河幻想.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·星河幻想/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·星河幻想/奇迹暖暖·星河幻想.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·星河幻想/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·星河幻想/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·星河幻想/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·星河幻想/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·星河幻想/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·星河幻想/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·星河幻想/banner3.jpg"
       ],
       "tip": "designed by 乱战葬歌",
       "desc": "",
@@ -162,12 +162,12 @@
     },
     {
       "name": "奇迹暖暖·狄安娜之梦",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·狄安娜之梦/奇迹暖暖·狄安娜之梦.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·狄安娜之梦/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·狄安娜之梦/奇迹暖暖·狄安娜之梦.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·狄安娜之梦/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·狄安娜之梦/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·狄安娜之梦/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·狄安娜之梦/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·狄安娜之梦/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·狄安娜之梦/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·狄安娜之梦/banner3.jpg"
       ],
       "tip": "designed by 乱战葬歌",
       "desc": "",
@@ -178,12 +178,12 @@
     },
     {
       "name": "奇迹暖暖·破晓之誓",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·破晓之誓/奇迹暖暖·破晓之誓.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·破晓之誓/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·破晓之誓/奇迹暖暖·破晓之誓.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·破晓之誓/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·破晓之誓/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·破晓之誓/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/奇迹暖暖·破晓之誓/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·破晓之誓/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·破晓之誓/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/奇迹暖暖·破晓之誓/banner3.jpg"
       ],
       "tip": "designed by 乱战葬歌",
       "desc": "",
@@ -194,12 +194,12 @@
     },
     {
       "name": "斜塔幻想",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/斜塔幻想/斜塔幻想.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/斜塔幻想/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/斜塔幻想/斜塔幻想.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/斜塔幻想/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/斜塔幻想/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/斜塔幻想/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/斜塔幻想/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/斜塔幻想/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/斜塔幻想/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/斜塔幻想/banner3.jpg"
       ],
       "tip": "designed by 廿拾叁",
       "desc": "",
@@ -210,12 +210,12 @@
     },
     {
       "name": "星球探索",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/星球探索/星球探索.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/星球探索/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/星球探索/星球探索.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/星球探索/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/星球探索/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/星球探索/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/星球探索/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/星球探索/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/星球探索/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/星球探索/banner3.jpg"
       ],
       "tip": "designed by 莫飞",
       "desc": "",
@@ -226,12 +226,12 @@
     },
     {
       "name": "暗黑星空",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/暗黑星空/暗黑星空.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/暗黑星空/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/暗黑星空/暗黑星空.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/暗黑星空/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/暗黑星空/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/暗黑星空/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/暗黑星空/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/暗黑星空/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/暗黑星空/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/暗黑星空/banner3.jpg"
       ],
       "tip": "designed by 书迷",
       "desc": "一闪一闪亮晶晶，漫天都是小✨✨",
@@ -242,12 +242,12 @@
     },
     {
       "name": "正义绿头",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/正义绿头/正义绿头.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/正义绿头/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/正义绿头/正义绿头.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/正义绿头/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/正义绿头/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/正义绿头/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/正义绿头/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/正义绿头/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/正义绿头/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/正义绿头/banner3.jpg"
       ],
       "tip": "designed by 莫飞",
       "desc": "",
@@ -258,12 +258,12 @@
     },
     {
       "name": "水墨-印象",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/水墨-印象/水墨-印象.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/水墨-印象/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/水墨-印象/水墨-印象.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/水墨-印象/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/水墨-印象/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/水墨-印象/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/水墨-印象/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/水墨-印象/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/水墨-印象/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/水墨-印象/banner3.jpg"
       ],
       "tip": "designed by 廿拾叁",
       "desc": "",
@@ -274,12 +274,12 @@
     },
     {
       "name": "活力海洋",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/活力海洋/活力海洋.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/活力海洋/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/活力海洋/活力海洋.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/活力海洋/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/活力海洋/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/活力海洋/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/活力海洋/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/活力海洋/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/活力海洋/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/活力海洋/banner3.jpg"
       ],
       "tip": "designed by 书迷",
       "desc": "不要问我还有多深",
@@ -290,12 +290,12 @@
     },
     {
       "name": "滑稽人生",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/滑稽人生/滑稽人生.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/滑稽人生/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/滑稽人生/滑稽人生.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/滑稽人生/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/滑稽人生/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/滑稽人生/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/滑稽人生/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/滑稽人生/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/滑稽人生/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/滑稽人生/banner3.jpg"
       ],
       "tip": "designed by 莫飞",
       "desc": "",
@@ -306,12 +306,12 @@
     },
     {
       "name": "璀璨绿光",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/璀璨绿光/璀璨绿光.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/璀璨绿光/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/璀璨绿光/璀璨绿光.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/璀璨绿光/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/璀璨绿光/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/璀璨绿光/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/璀璨绿光/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/璀璨绿光/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/璀璨绿光/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/璀璨绿光/banner3.jpg"
       ],
       "tip": "designed by 💘只爲、伊人醉づ✨™",
       "desc": "",
@@ -322,12 +322,12 @@
     },
     {
       "name": "皮卡丘",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/皮卡丘/皮卡丘.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/皮卡丘/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/皮卡丘/皮卡丘.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/皮卡丘/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/皮卡丘/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/皮卡丘/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/皮卡丘/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/皮卡丘/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/皮卡丘/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/皮卡丘/banner3.jpg"
       ],
       "tip": "designed by 莫飞",
       "desc": "",
@@ -338,12 +338,12 @@
     },
     {
       "name": "缥缈仙韵",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/缥缈仙韵/缥缈仙韵.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/缥缈仙韵/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/缥缈仙韵/缥缈仙韵.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/缥缈仙韵/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/缥缈仙韵/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/缥缈仙韵/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/缥缈仙韵/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/缥缈仙韵/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/缥缈仙韵/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/缥缈仙韵/banner3.jpg"
       ],
       "tip": "designed by 乱战葬歌",
       "desc": "",
@@ -354,12 +354,12 @@
     },
     {
       "name": "罪恶王冠",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/罪恶王冠/罪恶王冠.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/罪恶王冠/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/罪恶王冠/罪恶王冠.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/罪恶王冠/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/罪恶王冠/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/罪恶王冠/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/罪恶王冠/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/罪恶王冠/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/罪恶王冠/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/罪恶王冠/banner3.jpg"
       ],
       "tip": "designed by 💘只爲、伊人醉づ✨™",
       "desc": "",
@@ -370,12 +370,12 @@
     },
     {
       "name": "落樱粉彩",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/落樱粉彩/落樱粉彩.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/落樱粉彩/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/落樱粉彩/落樱粉彩.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/落樱粉彩/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/落樱粉彩/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/落樱粉彩/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/落樱粉彩/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/落樱粉彩/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/落樱粉彩/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/落樱粉彩/banner3.jpg"
       ],
       "tip": "designed by 乱战葬歌",
       "desc": "",
@@ -386,12 +386,12 @@
     },
     {
       "name": "進撃の巨人",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/進撃の巨人/進撃の巨人.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/進撃の巨人/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/進撃の巨人/進撃の巨人.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/進撃の巨人/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/進撃の巨人/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/進撃の巨人/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/進撃の巨人/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/進撃の巨人/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/進撃の巨人/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/進撃の巨人/banner3.jpg"
       ],
       "tip": "designed by 莫飞",
       "desc": "",
@@ -402,12 +402,12 @@
     },
     {
       "name": "逼死强迫症",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/逼死强迫症/逼死强迫症.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/逼死强迫症/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/逼死强迫症/逼死强迫症.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/逼死强迫症/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/逼死强迫症/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/逼死强迫症/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/逼死强迫症/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/逼死强迫症/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/逼死强迫症/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/逼死强迫症/banner3.jpg"
       ],
       "tip": "designed by 乱战葬歌",
       "desc": "",
@@ -418,12 +418,12 @@
     },
     {
       "name": "郁香",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/郁香/郁香.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/郁香/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/郁香/郁香.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/郁香/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/郁香/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/郁香/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/郁香/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/郁香/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/郁香/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/郁香/banner3.jpg"
       ],
       "tip": "designed by 廿拾叁",
       "desc": "",
@@ -434,12 +434,12 @@
     },
     {
       "name": "钉钉本钉QAQ",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/钉钉本钉QAQ/钉钉本钉QAQ.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/钉钉本钉QAQ/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/钉钉本钉QAQ/钉钉本钉QAQ.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/钉钉本钉QAQ/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/钉钉本钉QAQ/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/钉钉本钉QAQ/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/钉钉本钉QAQ/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/钉钉本钉QAQ/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/钉钉本钉QAQ/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/钉钉本钉QAQ/banner3.jpg"
       ],
       "tip": "designed by 乱战葬歌",
       "desc": "",
@@ -450,12 +450,12 @@
     },
     {
       "name": "高山流水",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/高山流水.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/高山流水/高山流水.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/高山流水/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/高山流水/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/高山流水/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/高山流水/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/高山流水/banner3.jpg"
       ],
       "tip": "designed by 乱战葬歌",
       "desc": "",
@@ -466,12 +466,12 @@
     },
     {
       "name": "魔道祖师·蓝忘机",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·蓝忘机/魔道祖师·蓝忘机.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·蓝忘机/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/魔道祖师·蓝忘机/魔道祖师·蓝忘机.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/魔道祖师·蓝忘机/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·蓝忘机/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·蓝忘机/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·蓝忘机/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/魔道祖师·蓝忘机/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/魔道祖师·蓝忘机/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/魔道祖师·蓝忘机/banner3.jpg"
       ],
       "tip": "designed by 乱战葬歌",
       "desc": "",
@@ -482,12 +482,12 @@
     },
     {
       "name": "魔道祖师·魏无羡",
-      "url": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·魏无羡/魔道祖师·魏无羡.miiskin",
-      "cover": "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·魏无羡/cover.jpg",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/魔道祖师·魏无羡/魔道祖师·魏无羡.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/魔道祖师·魏无羡/cover.jpg",
       "banners": [
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·魏无羡/banner1.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·魏无羡/banner2.jpg",
-        "https://raw.githubusercontent.com/DonMoses/miireadskin/master/魔道祖师·魏无羡/banner3.jpg"
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/魔道祖师·魏无羡/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/魔道祖师·魏无羡/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/魔道祖师·魏无羡/banner3.jpg"
       ],
       "tip": "designed by 乱战葬歌",
       "desc": "",
@@ -495,6 +495,72 @@
       "enable": true,
       "minversion": 1000672,
       "md5": "b20709afd0b64faa70d352630c6c4fc4"
+    },
+    {
+      "name": "大白",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/大白/大白.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/大白/cover.jpg",
+      "banners": [
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/大白/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/大白/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/大白/banner3.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/大白/banner4.jpg"
+      ],
+      "tip": "designed by 666",
+      "desc": "",
+      "size": "996.9 kb",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "804970ecc15125671b96a9a2ba8b033c"
+    },
+    {
+      "name": "黄道十二宫-白羊座",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/黄道十二宫-白羊座/黄道十二宫-白羊座.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/黄道十二宫-白羊座/cover.jpg",
+      "banners": [
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/黄道十二宫-白羊座/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/黄道十二宫-白羊座/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/黄道十二宫-白羊座/banner3.jpg"
+      ],
+      "tip": "designed by 666",
+      "desc": "",
+      "size": "3.72 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "afce247de8a093a358774078722bd4d4"
+    },
+    {
+      "name": "精神污染者",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/精神污染者/精神污染者.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/精神污染者/cover.jpg",
+      "banners": [
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/精神污染者/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/精神污染者/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/精神污染者/banner3.jpg"
+      ],
+      "tip": "designed by 酆都",
+      "desc": "",
+      "size": "1.48 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "721b5d875be0d394634d9823e77a76d0"
+    },
+    {
+      "name": "书迷猫",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/书迷猫/书迷猫.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/书迷猫/cover.jpg",
+      "banners": [
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/书迷猫/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/书迷猫/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/书迷猫/banner3.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/书迷猫/banner4.jpg"
+      ],
+      "tip": "designed by 莫飞",
+      "desc": "",
+      "size": "1.64 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "bf53c61a687f4085d9e8fbac55de467d"
     }
   ]
 }

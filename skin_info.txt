@@ -11,10 +11,10 @@
       ],
       "tip": "designed by 莫飞",
       "desc": "",
-      "size": "1.36 M",
+      "size": "2.07 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "5ad045b15c58ad29286855ccc18dd119"
+      "md5": "9a5992dd8d8186623828210c0e502755"
     },
     {
       "name": "B站风格2",
@@ -315,10 +315,10 @@
       ],
       "tip": "designed by 💘只爲、伊人醉づ✨™",
       "desc": "",
-      "size": "2.43 M",
+      "size": "2.41 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "eb0ac977307f3213f1a72ea1a20aa5a5"
+      "md5": "fde86951a5c2c079a3258ba060e92b16"
     },
     {
       "name": "皮卡丘",
