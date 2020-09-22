@@ -1,6 +1,22 @@
 {
   "skinlist": [
     {
+      "name": "暗金祥云",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/暗金祥云/暗金祥云.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/暗金祥云/cover.jpg",
+      "banners": [
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/暗金祥云/banner1.png",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/暗金祥云/banner2.png",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/暗金祥云/banner3.png"
+      ],
+      "tip": "designed by 莫飞",
+      "desc": "",
+      "size": "2.02 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "6f249495a2c70095fe55405abf031094"
+    },
+    {
       "name": "B站风格",
       "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/B站风格/B站风格.miiskin",
       "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/B站风格/cover.jpg",
@@ -8,22 +24,6 @@
         "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/B站风格/banner1.jpg",
         "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/B站风格/banner2.jpg",
         "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/B站风格/banner3.jpg"
-      ],
-      "tip": "designed by 莫飞",
-      "desc": "",
-      "size": "1.36 M",
-      "enable": true,
-      "minversion": 1000672,
-      "md5": "5ad045b15c58ad29286855ccc18dd119"
-    },
-    {
-      "name": "B站风格2",
-      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/B站风格2/B站风格2.miiskin",
-      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/B站风格2/cover.jpg",
-      "banners": [
-        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/B站风格2/banner1.jpg",
-        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/B站风格2/banner2.jpg",
-        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/B站风格2/banner3.jpg"
       ],
       "tip": "designed by 莫飞",
       "desc": "",
@@ -495,6 +495,72 @@
       "enable": true,
       "minversion": 1000672,
       "md5": "b20709afd0b64faa70d352630c6c4fc4"
+    },
+    {
+      "name": "大白",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/大白/大白.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/大白/cover.jpg",
+      "banners": [
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/大白/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/大白/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/大白/banner3.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/大白/banner4.jpg"
+      ],
+      "tip": "designed by 666",
+      "desc": "",
+      "size": "996.9 kb",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "804970ecc15125671b96a9a2ba8b033c"
+    },
+    {
+      "name": "黄道十二宫-白羊座",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/黄道十二宫-白羊座/黄道十二宫-白羊座.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/黄道十二宫-白羊座/cover.jpg",
+      "banners": [
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/黄道十二宫-白羊座/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/黄道十二宫-白羊座/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/黄道十二宫-白羊座/banner3.jpg"
+      ],
+      "tip": "designed by 666",
+      "desc": "",
+      "size": "3.72 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "afce247de8a093a358774078722bd4d4"
+    },
+    {
+      "name": "精神污染者",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/精神污染者/精神污染者.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/精神污染者/cover.jpg",
+      "banners": [
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/精神污染者/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/精神污染者/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/精神污染者/banner3.jpg"
+      ],
+      "tip": "designed by 酆都",
+      "desc": "",
+      "size": "1.48 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "721b5d875be0d394634d9823e77a76d0"
+    },
+    {
+      "name": "书迷猫",
+      "url": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/书迷猫/书迷猫.miiskin",
+      "cover": "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/书迷猫/cover.jpg",
+      "banners": [
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/书迷猫/banner1.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/书迷猫/banner2.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/书迷猫/banner3.jpg",
+        "https://com-moses-apprelease.oss-cn-beijing.aliyuncs.com/miiread/version/android/skinres/书迷猫/banner4.jpg"
+      ],
+      "tip": "designed by 莫飞",
+      "desc": "",
+      "size": "1.64 M",
+      "enable": true,
+      "minversion": 1000672,
+      "md5": "bf53c61a687f4085d9e8fbac55de467d"
     }
   ]
 }
