@@ -11,10 +11,10 @@
       ],
       "tip": "designed by 莫飞",
       "desc": "",
-      "size": "2.07 M",
+      "size": "2.44 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "9a5992dd8d8186623828210c0e502755"
+      "md5": "4f59e4eff40778de35e9909cb37d40d2"
     },
     {
       "name": "B站风格2",
