@@ -235,10 +235,10 @@
       ],
       "tip": "designed by 书迷",
       "desc": "一闪一闪亮晶晶，漫天都是小✨✨",
-      "size": "1.32 M",
+      "size": "1,013.32 kb",
       "enable": true,
       "minversion": 1000672,
-      "md5": "5a06d88efa46b95400989612616b9191"
+      "md5": "2233c5823529a1be76c820f8ba3d689f"
     },
     {
       "name": "正义绿头",
