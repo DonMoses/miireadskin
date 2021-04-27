@@ -299,10 +299,10 @@
       ],
       "tip": "designed by 莫飞",
       "desc": "",
-      "size": "1.26 M",
+      "size": "1.25 M",
       "enable": true,
       "minversion": 1000672,
-      "md5": "bb5d61041260ddfcedb97f90b108880a"
+      "md5": "c9440667927afa3ab994074feb3b9536"
     },
     {
       "name": "璀璨绿光",
@@ -331,10 +331,10 @@
       ],
       "tip": "designed by 莫飞",
       "desc": "",
-      "size": "1,021.55 kb",
+      "size": "674.83 kb",
       "enable": true,
       "minversion": 1000672,
-      "md5": "d7b1d7fcd9c7c78fef6723a3fa1c5a4e"
+      "md5": "289c6d7b42b8efa78fe8c8eced339fbe"
     },
     {
       "name": "缥缈仙韵",
